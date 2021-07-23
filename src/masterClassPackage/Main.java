@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.println("hello from sub branch");  
 		
+		System.out.println("another hello from sub branch");
+		
 	}
 
 }
