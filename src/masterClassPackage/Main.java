@@ -10,7 +10,7 @@ public class Main {
 		
 		System.out.println("hello world");
 		
-		System.out.println("this is the change in code");
+		System.out.println("this is the change");
 		
 	}
 
